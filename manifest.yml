@@ -1,0 +1,6 @@
+name: omm-base
+displayName: OMM Base
+repoUrl: https://github.com/borgmon/omm-base
+version: 0.8.13-0.1
+description: This is base mod for OMM. Please don't remove and leave at the top of the mod list
+publisher: borgmon
